@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-17T09:32:22.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-ETS40WVB1Jzg5D_k7MX" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-17T09:33:59.086Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-WhzE-WmDCJnRM8jy0oi" version="12.5.5" type="github">
   <diagram id="zmymuPuCRA90sSjGcWVc" name="第 1 页">
     <mxGraphModel dx="909" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
             <mxPoint x="661" y="230" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zbDv7zDLH7h7_JeVAdqf-10" value="CloudML" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zbDv7zDLH7h7_JeVAdqf-10" value="CloudML Job" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="121" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="zbDv7zDLH7h7_JeVAdqf-19" value="Python Serving" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
